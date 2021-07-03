@@ -73,6 +73,8 @@
         grid-area: box_down_right;
         background-color: #F0F0F1;
         border-radius: 10px; }
+      .grid-container__main__asside_left {
+        display: none; }
     .grid-container__footer {
       display: block;
       background-color: white;
